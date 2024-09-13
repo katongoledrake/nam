@@ -1561,6 +1561,7 @@ nav.bootsnav.navbar-default.info-topbar.sticked ul li a {
 .recent-causes-area.fixed-area .recent-causes-items {
   position: relative;
   top: -100px;
+  
 }
 
 .recent-causes-area .item .col-md-6 {
@@ -1568,6 +1569,7 @@ nav.bootsnav.navbar-default.info-topbar.sticked ul li a {
   float: none;
   vertical-align: middle;
   padding: 0;
+  
 }
 
 .recent-causes-area ul li {
