@@ -1098,7 +1098,9 @@ body, .banner-area,
 }
 
 .top-bar-area .logo img {
-  height: 50px;
+  height: 70px;
+  max-height: 70px;
+
 }
 
 .top-bar-area .info li:first-child {
@@ -1569,6 +1571,8 @@ nav.bootsnav.navbar-default.info-topbar.sticked ul li a {
   float: none;
   vertical-align: middle;
   padding: 0;
+  background-size: contain;
+ background-repeat: no-repeat;
   
 }
 
