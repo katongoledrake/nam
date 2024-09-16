@@ -1089,6 +1089,11 @@ body, .banner-area,
 }
 
 .top-bar-area .logo {
+  margin: 0 auto;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
   float: left;
   margin-right: 50px;
 }
